@@ -1,0 +1,73 @@
+
+body {
+    background-color:#000000;
+    line-height:1;
+    color: white;
+    text-align:center;
+}
+
+div.well.jumbotron {
+    background-color:#f43c27;
+    color:#ffffff;
+}
+
+.timer
+{
+    font-size: 35px;
+    color:#ffffff;
+}
+
+nav ul {
+    list-style:none;
+    text-align: left;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: Arial;
+}
+
+label{
+  display: inline;
+}  
+
+h3, #next {
+  text-align: center;
+  display: inline-block;
+  border-radius: 10%;
+}
+
+#result {
+  font-family:"Arial";
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #036;
+}
+
+input[name="option"] {
+  float:left;
+  
+}
+
+#form div{
+  margin:auto;
+  max-width: 205px;
+}
+
+#container {
+  text-align:left ;
+}
+
+input, select {
+    text-align: center;
+}
+
+.button {
+    display: inline-block;
+    padding: 1em;
+    background-color: #15268e;
+    text-decoration: none; 
+    color: #ffffff;
+} 
+
+
