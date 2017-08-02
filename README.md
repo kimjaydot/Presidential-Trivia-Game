@@ -1,5 +1,14 @@
-# TriviaGame
+# Presidential -Trivia-Game
 
-[TriviaGame](https://kimjaydot.github.io/TriviaGame/)
+How well do you know your American Presidental History? Take a 5 question timed quiz and see how you do!
 
-In this assignment, I'm creating a Presidental Trivia Game using JavaScript for the logic and jQuery to manipulate HTML.
+Take Time Quiz [Here](https://kimjaydot.github.io/Presidential-Trivia-Game)
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+
+
